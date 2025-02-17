@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithronaldo" alt="codewithronaldo" /></a> </p>
 
-- 🔭 I’m currently working on **I'm currently working on developing and optimizing modern, responsive web applications using React.js, Tailwind CSS, and TypeScript. My focus is on building intuitive user interfaces, enhancing performance, and implementing best practices in front-end development**
+- 🔭 I’m currently working on **I'm currently working on developing and optimizing modern, responsive web applications using React.js, and TypeScript. My focus is on building intuitive user interfaces, enhancing performance, and implementing best practices in front-end development**
 
 - 🌱 I’m currently learning **I'm currently learning React and its advanced concepts, focusing on building dynamic user interfaces and improving my understanding of state management, hooks, and component architecture. I'm also exploring React ecosystem tools to enhance my development workflow and build more efficient applications.**
 
